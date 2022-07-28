@@ -126,7 +126,7 @@ Technologies Used:
 </a>
 
 <a href="expressjs.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="ExpressJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="left" alt="ExpressJS" width="26px" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" />
 </a>
 
 <a href="webpack.js.org/" target="_blank" rel="noreferrer">

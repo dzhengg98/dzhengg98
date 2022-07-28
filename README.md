@@ -150,6 +150,7 @@ Technologies Used:
 </br>
 
 ## GitHub Stats:
+![](https://komarev.com/ghpvc/?username=dzhengg98)
 
 [![dzhengg98's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzhengg98)](https://github.com/dzhengg98/github-readme-stats)
 

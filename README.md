@@ -155,7 +155,7 @@ Technologies Used:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzhengg98)](https://github.com/dzhengg98/github-readme-stats)
 
-<h3>Contact Me: <img src="https://i.pinimg.com/originals/a7/d0/ca/a7d0caa6ae7be239119f062999ce32c2.gif" width="65"></h3>
+<h3><img src="./assets/goodnight.gif" width="75"> Contact Me: <img src="./assets/bye.gif" width="65"></h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzheng3456@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-zheng-87671b237/)

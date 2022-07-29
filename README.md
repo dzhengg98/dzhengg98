@@ -89,10 +89,13 @@ Technologies Used:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzhengg98&show_icons=true&locale=en&layout=compact" alt="dzhengg98" /></p>
 
+</br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dzhengg98&show_icons=true&locale=en" alt="dzhengg98" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dzhengg98&" alt="dzhengg98" /></p>
 
+</br>
 
 <h3><img src="./assets/goodnight.gif" width="75"> Contact Me: <img src="./assets/bye.gif" width="65"></h3>
 

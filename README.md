@@ -1,4 +1,4 @@
-<h2><img src="https://media4.giphy.com/media/Rk2vpkjp446amkIwIz/giphy.gif?cid=790b76116186835d9581a4dd1dbd7021c508c0138126fdee&rid=giphy.gif&ct=s" width="85">Hi there, I'm David Zheng!<img src="https://i.pinimg.com/originals/37/a7/b8/37a7b8816537e3db82f9a575636c5456.gif" width="65"></h2>
+<h2><img src="./assets/runningdog.webp" width="85">Hi there, I'm David Zheng!<img src="./assets/korgiheart.gif" width="65"></h2>
 
 </br>
 
@@ -150,6 +150,7 @@ Technologies Used:
 </br>
 
 ## GitHub Stats:
+
 ![](https://komarev.com/ghpvc/?username=dzhengg98)
 
 [![dzhengg98's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzhengg98)](https://github.com/dzhengg98/github-readme-stats)
@@ -161,3 +162,4 @@ Technologies Used:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzheng3456@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-zheng-87671b237/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/david-zheng-27/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/dzhengg1/)

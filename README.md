@@ -93,8 +93,6 @@ Technologies Used:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dzhengg98&" alt="dzhengg98" /></p>
 
-</br>
-
 <h3><img src="./assets/goodnight.gif" width="75"> Contact Me: <img src="./assets/bye.gif" width="65"></h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzheng3456@gmail.com)

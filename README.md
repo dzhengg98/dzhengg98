@@ -81,7 +81,6 @@ Technologies Used:
 
 </br>
 </br>
-</br>
 
 ## GitHub Stats:
 

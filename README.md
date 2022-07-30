@@ -90,7 +90,7 @@ Technologies Used:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dzhengg98&show_icons=true&locale=en" alt="dzhengg98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dzhengg98&" alt="dzhengg98" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dzhengg98" alt="dzhengg98" /></p>
 
 ## 📧 Contact Me:
 

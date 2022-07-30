@@ -10,7 +10,7 @@ Check out some of my projects:
 
 <details>
 
-  <summary>REM32 - 500PX photo-sharing app clone</summary>
+  <summary>REM32 - Photo-sharing app clone of 500PX using a Rails backend and React frontend</summary>
   </br>
   <a href="https://rem32.herokuapp.com/#/" target="_blank" title="REM32 - 500PX photo-sharing app clone"><img src="./assets/REM32.png" ></a>
   </br>
@@ -34,7 +34,7 @@ Technologies Used:
 
 <details>
 
-  <summary>Picka Pet - MERN app to adopt virtual pets</summary>
+  <summary>Picka Pet - Collaborative MERN app to adopt virtual pets working alongside <a href="https://github.com/madeleinepla"> Madeleine Pla</a>, <a href="https://github.com/nilshen"> Lin Shen</a> and <a href="https://github.com/frommere"> Evan Frommer</a> </summary>
   </br>
   <a href="https://picka-pet.herokuapp.com/#/" target="_blank" title="PickaPet - MERN app to adopt virtual pets"><img src="./assets/pickapet.png" ></a>
   </br>

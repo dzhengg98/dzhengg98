@@ -36,7 +36,7 @@ Technologies Used:
 
   <summary> 🐶 Picka Pet 🐱 - Collaborative MERN app to adopt virtual pets working alongside <a href="https://github.com/madeleinepla"> Madeleine Pla</a>, <a href="https://github.com/nilshen"> Lin Shen</a> and <a href="https://github.com/frommere"> Evan Frommer</a> </summary>
   </br>
-  <a href="https://picka-pet.herokuapp.com/#/" target="_blank" title="PickaPet - MERN app to adopt virtual pets"><img src="./assets/pickapet.png" ></a>
+  <a href="https://pickapet.herokuapp.com/#/" target="_blank" title="PickaPet - MERN app to adopt virtual pets"><img src="./assets/pickapet.png" ></a>
   </br>
 
 Technologies Used:

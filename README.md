@@ -86,9 +86,6 @@ Technologies Used:
 
 ![](https://komarev.com/ghpvc/?username=dzhengg98)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dzhengg98" alt="dzhengg98" /></p>
-
 ## 📧 Contact Me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzheng3456@gmail.com)
